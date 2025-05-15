@@ -17,7 +17,9 @@ public class Tree {
     }
 
     public void insert(Object value){
-        // TODO: Finish method
+        if (this.isEmpty()){
+
+        }
     }
     public void remove(Object value){
         // TODO: Finish method
@@ -25,7 +27,7 @@ public class Tree {
     public boolean contains(Object value){
         // TODO: Finish method
     }
-    public boolean isEmpty(Object value){
+    public boolean isEmpty(){
         // TODO: Finish method
     }
 
